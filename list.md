@@ -404,6 +404,7 @@ purger
 quaeritater
 questioner
 rammer
+rapper
 re-user
 reader
 reasoner
@@ -571,6 +572,7 @@ whitener
 withholder
 wobbler
 worker
+wrapper
 wrestler
 yanker
 yeller
